@@ -28,3 +28,8 @@ We used Firebase for backend and native android and react (web) as front end.
 ## What's next for Period Buddy
 - First to complete the frontend and backend integration
 - Add support for our native languages like Hindi, Gujarati, Tamil, Bengali, Panjabi, etc
+
+
+</br>
+
+### Made with Love and Respect, by Madhur Gupta and Tirth Joshi.
