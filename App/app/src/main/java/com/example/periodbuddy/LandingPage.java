@@ -85,12 +85,9 @@ public class LandingPage extends AppCompatActivity {
 
                 break;
 
-            case R.id.Hygiene:
-
-
-                break;
 
             case R.id.FAQ:
+                startActivity(new Intent(LandingPage.this,FAQ.class));
 
 
                 break;
@@ -121,7 +118,7 @@ public class LandingPage extends AppCompatActivity {
         }
         else if (item.getItemId()==R.id.setting){
 
-            //startActivity(new Intent(LandingPage.this,AboutUs.class));
+            startActivity(new Intent(LandingPage.this,Setting.class));
 
         }
         return super.onOptionsItemSelected(item);

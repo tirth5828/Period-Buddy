@@ -55,7 +55,13 @@ public class FAQ extends AppCompatActivity {
             "Poor menstrual hygiene can pose physical health risks and has been linked to reproductive and urinary tract infections.",
             "Women and adolescent girls are using clean menstrual management materials to absorb or collect blood that can be changed in privacy as often as necessary for the duration of the menstruation period, using soap and water for washing the body as required, and having access to facilities to dispose of used menstrual management materials",
             "Change your sanitary napkin every 4-6 hours\nWash properly\nDon't use soaps or vagina hygiene products\nDiscard the sanitary napkin properly\n Stick to one method of sanitation",
-            "are 15 and haven't started your period have had your period for more than 2 years and it still doesn't come regularly (about every 4–5 weeks) have bleeding between periods have severe cramps that don't get better with ibuprofen or naproxen have very heavy bleeding (bleeding that goes through a pad or tampon faster than every 1 hour) have periods that last more than about a week have severe PMS that gets in the way of your everyday activities"
+            "Are 15 and haven't started your period\n" +
+                    "Have had your period for more than 2 years and it still doesn't come regularly (about every 4–5 weeks)\n" +
+                    "Have bleeding between periods\n" +
+                    "Have severe cramps that don't get better with ibuprofen or naproxen \n" +
+                    "Have very heavy bleeding (bleeding that goes through a pad or tampon faster than every 1 hour)\n" +
+                    "Have periods that last more than about a week\n" +
+                    "Have severe PMS that gets in the way of your everyday activities\n"
     };
 
 
