@@ -1,0 +1,29 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  .logo-container {
+    img {
+      display: block;
+      width: 140px;
+    }
+  }
+  .navitems {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 55%;
+    .navchild {
+      font-family: Gill Sans;
+      font-style: normal;
+      font-weight: 200;
+      font-size: 24px;
+      line-height: 36px;
+      text-decoration: none;
+      color: black;
+      border-bottom: 3px solid black;
+    }
+    .navchild:hover {
+      border-bottom: 3px solid rgb(230, 43, 30);
+    }
+  }
+}
