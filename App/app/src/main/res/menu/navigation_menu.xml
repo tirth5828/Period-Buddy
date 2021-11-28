@@ -6,10 +6,6 @@
         android:title="@string/history"
         />
     <item
-        android:id="@+id/Hygiene"
-        android:title="@string/hygiene"
-        />
-    <item
         android:id="@+id/FAQ"
         android:title="@string/period_faq"
         />

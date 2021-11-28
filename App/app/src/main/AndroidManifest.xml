@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PeriodBuddy">
         <activity
+            android:name=".Setting"
+            android:exported="false" />
+        <activity
+            android:name=".AboutUs"
+            android:exported="false" />
+        <activity
+            android:name=".FAQ"
+            android:exported="false" />
+        <activity
             android:name=".History"
             android:exported="false" />
         <activity

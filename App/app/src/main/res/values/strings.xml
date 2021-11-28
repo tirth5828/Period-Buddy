@@ -25,4 +25,11 @@
     <string name="period_faq">Period FAQ</string>
     <string name="hygiene">Hygiene</string>
     <string name="history">History</string>
+    <string name="N1">Fact</string>
+    <string name="want_to_do_something_more">Want to do something more</string>
+
+
+    <string name="AboutUS">As men, we accept we have no idea of how it feels like. Our app Period Buddy is just a small gesture to make this period a bit more passable.</string>
+    <string name="Developers">Made with Love and Respect \n Tirth Joshi , Madhur Gupta</string>
+
 </resources>
