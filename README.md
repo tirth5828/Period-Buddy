@@ -39,4 +39,4 @@ We used Firebase for backend and native android and react (web) as front end.
 - First to complete the frontend and backend integration
 - Add support for our native languages like Hindi, Gujarati, Tamil, Bengali, Panjabi, etc
 
-### Made with Love and Respect, by Madhur Gupta and Tirth Joshi.
+#### Made with Love and Respect, by Madhur Gupta and Tirth Joshi.
