@@ -10,7 +10,7 @@ Coming from India, "period" is taboo for most people, even for the educated ones
 
 It has features like -
 
-- Finding your period buddies i.e. your friends who have their periods with you. Your buddies would be the only ones with whom we'll share your data, ie with your apporval.
+- Finding your period buddies i.e. your friends who have their periods with you. Your buddies would be the only ones with whom we'll share your data, ie with your approval.
 - Know how to support someone during their periods, could be your significant other, best friends or anyone you want
 
 ## How we built it
